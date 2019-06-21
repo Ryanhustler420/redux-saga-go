@@ -40,3 +40,6 @@ Make sure you're running the latest version of `node`. Make sure the following d
     "webpack-dev-server": "^1.16.5"
 }
 ```
+## Depandencies
+
+> redux-saga --save
